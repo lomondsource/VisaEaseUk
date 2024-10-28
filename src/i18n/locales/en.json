@@ -1,0 +1,21 @@
+{
+  "common": {
+    "apply": "Apply",
+    "learn_more": "Learn More",
+    "sign_up": "Sign Up",
+    "sign_in": "Sign In",
+    "dashboard": "Dashboard",
+    "help": "Help",
+    "documents": "Documents"
+  },
+  "home": {
+    "hero_title": "Your Journey to the UK Starts Here",
+    "hero_subtitle": "Professional guidance through every step of your UK visa application process"
+  },
+  "visa": {
+    "types": "Visa Types",
+    "requirements": "Requirements",
+    "processing_time": "Processing Time",
+    "fees": "Fees"
+  }
+}
